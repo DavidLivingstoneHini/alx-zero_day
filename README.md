@@ -1,7 +1,6 @@
 # Welcome!
 ## The ALX Vagrant Project.
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 The ALX Software Engineering program has given me the opportuinity to start my journey as a Software Engineer.
 
